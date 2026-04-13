@@ -2,10 +2,6 @@ Vehicle ECU Simulator
 Linux System Programming Project
 =====================================
 
-Name    Girish Kanoje
-PRN     123B1E171
-Domain  Automotive Embedded Systems 
-
 ABOUT
 -----
 This project simulates a Vehicle ECU system using Linux.
